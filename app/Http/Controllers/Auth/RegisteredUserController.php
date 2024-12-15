@@ -51,6 +51,6 @@ class RegisteredUserController extends Controller
 
         Auth::login($user);
 
-        return redirect(route('allbooks', absolute: false));
+        return redirect(route('view.allbooks', absolute: false));
     }
 }

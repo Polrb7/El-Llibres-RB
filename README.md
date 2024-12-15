@@ -22,3 +22,5 @@ En resum, **El Llibres** vol ser un espai per a la comunitat lectora on comparti
 ![Diagrama E/R EL Llibres](image.png)
 
 ## Link Video
+
+https://youtu.be/uW-FiHax-Ys
